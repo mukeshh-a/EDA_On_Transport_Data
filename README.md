@@ -30,7 +30,7 @@ The dataset includes trip-level information:
 ![Missing Values](images/checking_nulls.png)
 
 **2. Are all data types correct (e.g., dates, numbers, categories)?**  
-![Data Types](images/data_types.png)
+![Data Types](images/data.png)
 
 **3. Are there any duplicate trip IDs?**  
 ![Duplicate Trip IDs](images/duplicate_trips.png)
