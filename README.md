@@ -1,4 +1,4 @@
-#  Transport Operations SQL Analysis (Jan–Mar 2025)
+#  EDA on Transport Data (Jan–Mar 2025)
 
 ##  Project Overview
 This project aims to analyze transport trip data collected from January to March 2025. The objective was to uncover insights related to trip performance, cost efficiency, vehicle utilization, delay patterns, and operational KPIs. The analysis was performed entirely using SQL.
