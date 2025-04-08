@@ -55,7 +55,7 @@ The dataset includes trip-level information:
 ![Trips per Vehicle](images/trips_per_vehicle_per_month.png) 
 
 ***underutilised vehicles*** 
- 
+
 ![Trips per Vehicle](images/underutilised_vehicle.png)
 
 **9. What’s the distribution of vehicle types?**  
@@ -76,7 +76,7 @@ The dataset includes trip-level information:
 
 **13. Which materials are most frequently transported?**  
 
-***based on Loading Quantity***
+***based on Loading Quantity*** 
 ![Top Materials](images/frequently_transported_materials_based_on_loading_qty.png)
 
 
@@ -114,6 +114,8 @@ The dataset includes trip-level information:
 
 **22. Are there trips where freight < total cost? How rare are they?**  
 ![Loss Trips](images/freight_less_than_trip_cost.png)
+
+***how rare are they***  
 ![Loss Trips](images/rarity.png)
 
 **23. Which trips have very low or high margin?**  
@@ -145,7 +147,8 @@ The dataset includes trip-level information:
 ***delay by route***  
 ![Delay by Route/Driver](images/delays_by_route.png)  
 
-***delay by drivers*** 
+***delay by drivers***  
+
 ![Delay by Route/Driver](images/delays_by_drivers.png) 
 
 **30. Is there a pattern in delay_flag over months?**  
