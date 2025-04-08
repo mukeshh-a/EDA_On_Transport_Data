@@ -54,7 +54,8 @@ The dataset includes trip-level information:
 **8. How many trips per vehicle per month? Any under-used vehicles?**  
 ![Trips per Vehicle](images/trips_per_vehicle_per_month.png) 
 
-***underutilised vehicles***  
+***underutilised vehicles*** 
+ 
 ![Trips per Vehicle](images/underutilised_vehicle.png)
 
 **9. What’s the distribution of vehicle types?**  
